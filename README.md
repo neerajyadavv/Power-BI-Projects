@@ -1,2 +1,3 @@
-# Power-BI-Project-1
+# Power-BI-Projects
 Financial complaints overview
+Healthcare report
